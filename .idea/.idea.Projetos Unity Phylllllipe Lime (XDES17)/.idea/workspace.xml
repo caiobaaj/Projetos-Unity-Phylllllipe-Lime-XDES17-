@@ -12,37 +12,64 @@
   <component name="ChangeListManager">
     <list default="true" id="f29b31ca-fd43-4ee1-9e02-e9c655739988" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Projetos Unity Phylllllipe Lime (XDES17)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projetos Unity Phylllllipe Lime (XDES17)/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Materials/Background1008.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Materials/Background1008.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Prefabs/Background1008.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Prefabs/Background1008.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scenes/10-08 Teste.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scenes/10-08 Teste.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scripts/ScrollBackgroundScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scripts/ScrollBackgroundScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scripts/SpawnBackgroundScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Scripts/SpawnBackgroundScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Blue_640x360.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Blue_640x360.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Green_640x360.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Green_640x360.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Purple_640x360.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/1-Purple_640x360.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/56+ECU.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/56+ECU.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/6fIVSg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/6fIVSg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/L1y3+K.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/L1y3+K.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/playerShip1_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/10-08/Sprites/playerShip1_red.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Materials/ScrollBgMaterialEx01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Materials/ScrollBgMaterialEx01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scenes/Ex01.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scenes/Ex01.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scripts/ScrollBgScriptEx01.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Scripts/ScrollBgScriptEx01.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/asteroid 3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/fundo asteroide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/fundo asteroide.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/projetil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/projetil.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/voando.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ex01/Sprites/voando.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Background1008.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Background1008.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Background1008.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Background1008.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Laser.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Laser.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/10-08 Teste.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/10-08 Teste.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MunicaoScript1708.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MunicaoScript1708.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NaveScriptAula1708.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NaveScriptAula1708.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScrollBackgroundScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScrollBackgroundScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnBackgroundScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnBackgroundScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Blue_640x360.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Blue_640x360.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Green_640x360.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Green_640x360.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Purple_640x360.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/1-Purple_640x360.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/56+ECU.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/56+ECU.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/6fIVSg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/6fIVSg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/L1y3+K.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/L1y3+K.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/laserBlue16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/laserBlue16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playerShip1_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playerShip1_red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

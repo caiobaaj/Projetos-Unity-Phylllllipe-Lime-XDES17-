@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 98318741530580109}
   - component: {fileID: -7016913253608324966}
   m_Layer: 0
-  m_Name: Laser
+  m_Name: Municao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

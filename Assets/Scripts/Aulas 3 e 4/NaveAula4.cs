@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class NaveScriptAula1708 : MonoBehaviour
+public class NaveAula4 : MonoBehaviour
 {
     [SerializeField] private float ySpeed;
     [SerializeField] private GameObject laserPrefab;
@@ -17,11 +17,6 @@ public class NaveScriptAula1708 : MonoBehaviour
     void Start()
     {
         Instantiate(laserPrefab, transform.position, Quaternion.identity);
-    }
-
-    void Update()
-    {
-        
     }
     
     void FixedUpdate()

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ScrollBgScriptEx01 : MonoBehaviour
+public class ScrollBgEx1 : MonoBehaviour
 {
     [SerializeField] private float velocidade;
     

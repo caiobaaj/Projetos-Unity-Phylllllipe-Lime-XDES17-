@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class MunicaoScript1708 : MonoBehaviour
+public class MunicaoAula4 : MonoBehaviour
 {
     [SerializeField] private float xSpeed;
     
@@ -15,11 +15,5 @@ public class MunicaoScript1708 : MonoBehaviour
     void Start()
     {
         _rb.AddForceX(xSpeed, ForceMode2D.Impulse);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

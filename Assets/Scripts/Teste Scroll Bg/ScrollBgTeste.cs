@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class ScrollBackgroundScript : MonoBehaviour
+public class ScrollBgTeste : MonoBehaviour
 {
-    [SerializeField] private SpawnBackgroundScript spawnScript;
+    [SerializeField] private SpawnBgTeste spawnScript;
     public GameObject backgroundPrefab;
     public List<Sprite> backgrounds = new List<Sprite>(6);
     public float speed = 0.01f;

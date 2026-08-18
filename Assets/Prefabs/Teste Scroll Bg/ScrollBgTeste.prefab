@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4550072119706643036}
   - component: {fileID: 1166667094012401106}
   m_Layer: 0
-  m_Name: Background1008
+  m_Name: ScrollBgTeste
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -90,7 +90,7 @@ SpriteRenderer:
   m_Size: {x: 6.4, y: 3.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
 --- !u!114 &1166667094012401106
@@ -108,10 +108,10 @@ MonoBehaviour:
   spawnScript: {fileID: 0}
   backgroundPrefab: {fileID: 1043947277703261665}
   backgrounds:
-  - {fileID: -2413074310439112987, guid: 16d36ce4a78a1a34bb1611bbf92f6180, type: 3}
-  - {fileID: 2796574897563991478, guid: e1b2e1d5e3579c244b1afbf1f4f54331, type: 3}
+  - {fileID: -2413074310439112987, guid: b2fb921bf6184834fa7a31c7ade85adb, type: 3}
+  - {fileID: -2673317303018028849, guid: 8ed52994024d5494f97f425869311424, type: 3}
   - {fileID: 8893703485786990087, guid: b961c64b4f84f3d48a1e9b02c9596564, type: 3}
-  - {fileID: -2673317303018028849, guid: 2857615e490edad409bef4daae13dd4c, type: 3}
-  - {fileID: -8622584092388682108, guid: 81e2fd7d64fcdf64887797d8e3f75e78, type: 3}
-  - {fileID: -1260394348586409891, guid: 2e60987dd5b05aa40a9e09d2feb5f57a, type: 3}
+  - {fileID: -8622584092388682108, guid: e7c7c8a556a19b24db3d9179c2676ee4, type: 3}
+  - {fileID: -1260394348586409891, guid: 23f052387b8ace5469a7a2a6c0272c1c, type: 3}
+  - {fileID: -4678153933302680551, guid: c4fc53d20b82ca042a28d62ace2cf7f4, type: 3}
   speed: 10.24
